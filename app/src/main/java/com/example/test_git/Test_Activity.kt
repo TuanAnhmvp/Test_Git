@@ -6,6 +6,8 @@ import com.example.test_git.databinding.ActivityTestBinding
 
 class Test_Activity : AppCompatActivity() {
 
+    //view binding
+
     private lateinit var binding: ActivityTestBinding
 
     override fun onCreate(savedInstanceState: Bundle?) {
